@@ -1,4 +1,5 @@
 - [bilibili-子豪兄](https://www.bilibili.com/video/BV1r7411X7LC?p=4)
+- [Inception-v1 network architecture](https://static.oschina.net/uploads/space/2018/0317/141544_FfKB_876354.jpg)
 ### Inception技术演进
 - Googlenet-V1
 - BN-Inception
