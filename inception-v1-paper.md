@@ -1,4 +1,4 @@
-- [子豪兄](https://www.bilibili.com/video/BV1r7411X7LC?p=4)
+- [bilibili-子豪兄](https://www.bilibili.com/video/BV1r7411X7LC?p=4)
 ### Inception技术演进
 - Googlenet-V1
 - BN-Inception
