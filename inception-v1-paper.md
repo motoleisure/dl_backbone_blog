@@ -55,3 +55,6 @@
 - 2 个辅助分类器
 - 22 layers
 - 比alexnet少12倍参数，但更加准确
+
+#### Training tech
+- 并行训练
