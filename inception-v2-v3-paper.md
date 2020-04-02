@@ -9,3 +9,14 @@
 - V2~V3
 - V4, Inception-ResNet
 - Xception, 深度可分离卷积
+
+### 计算机视觉的基础任务
+- 分类
+- 检测
+- 分割
+
+### Inception V3
+#### Main idea
+- 重新思考Inception结构，减少param，提高模型的表达能力
+- 重新思考辅助分类器的作用
+- 
