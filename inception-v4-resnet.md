@@ -1,0 +1,2 @@
+- [bilibili-自豪兄](https://www.bilibili.com/video/BV1r7411X7LC?p=7)
+- [Medium-Review: Inception-v4, Evolved From GoogLeNet, Merged with ResNet Idea (Image Classification)](https://towardsdatascience.com/review-inception-v4-evolved-from-googlenet-merged-with-resnet-idea-image-classification-5e8c339d18bc)
