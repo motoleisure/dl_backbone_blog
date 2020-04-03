@@ -16,7 +16,7 @@
 - 检测
 - 分割
 
-### Inception Vhttps://zhuanlan.zhihu.com/p/528028963
+### Inception V3
 #### Main idea
 - 重新思考Inception结构，减少param，提高模型的表达能力，提高模型运行效率
 - 重新思考辅助分类器的作用
