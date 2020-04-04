@@ -7,6 +7,8 @@ blogs for reading dl papers.
 - [inception-v2-v3-paper](inception-v2-v3-paper.md)
 - [inception-v4-resnet](inception-v4-resnet.md)
 
+## Loss function learning
+- [softmax-loss-inference](softmax-loss-inference.d)
 ## Advanced python learning
 - [advanced-python-01-05](advanced-python-01-05.md)
 
