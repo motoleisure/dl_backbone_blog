@@ -6,6 +6,15 @@
 
 #### Datasets
 ---
+- ![Some well-known datasets](asserts/well-known-dataset.png)
+---
+- ![pedestrian detection dataset](asserts/ped-det.png)
+---
+- ![face detection dataset](asserts/face-det.png)
+---
+- ![scene text detection dataset](asserts/scene-text-det.png)
+---
+- ![traffic detection dataset](asserts/traffic-det.png)
 
 #### Evolutions
 ---
