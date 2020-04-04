@@ -15,6 +15,9 @@
 - ![scene text detection dataset](asserts/scene-text-det.png)
 ---
 - ![traffic detection dataset](asserts/traffic-det.png)
+---
+- ![remote sensing target detection dataset](asserts/remote-sensing-target-det.png)
+---
 
 #### Evolutions
 ---
