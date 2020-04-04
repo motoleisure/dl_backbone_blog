@@ -14,3 +14,8 @@ blogs for reading dl papers.
 
 ## Labs && Companies && other interesting AI things
 - [my-collected-ai-labs-companies-or-others](my-collected-ai-labs-companies-or-others.md)
+
+## Object detection history
+- [part 01](object-detection-history-paper-01.md)
+- [part 02](object-detection-history-paper-02.md)
+- [part 03](object-detection-history-paper-03.md)
