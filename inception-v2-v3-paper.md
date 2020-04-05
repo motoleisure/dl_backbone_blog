@@ -21,7 +21,7 @@
 - 重新思考Inception结构，减少param，提高模型的表达能力，提高模型运行效率
 - 重新思考辅助分类器的作用
 - 卷积分解
-- 正则化，辅助分类器和label smoothing
+- 模型正则化，辅助分类器和label smoothing
 
 #### op对比
 - AlexNet : 60 million parameters
@@ -66,3 +66,19 @@
     - 即用pooling下采样，也用卷积下采样，最后concate在一起，也是inception并行模块结构
     - ![Efficent reducing grid size](asserts/inception-v2-v3/efficent-reducing-grid-size.png)
     ---
+    
+#### 网络结构
+- Inception V2
+- ![]()
+
+#### Label smoothing
+- 多分类问题用的损失函数是交叉熵函数
+- 我们对每个类别的表示是one-hot编码
+- 存在问题，
+
+#### 模型训练
+- SGD
+- batch-szie=32, epochs=100
+- 
+
+#### 小分辨率图
