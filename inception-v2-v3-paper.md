@@ -59,6 +59,8 @@
     - 一是用步长为1的卷积升维再池化，这样做计算量很大
     - 二是直接用步长为2的卷积做池化再升维，这样做信息丢失多，违背准则1
     - ![Two ways to reduce grid size](asserts/inception-v2-v3/two-ways-reducing.png)
+    ---
   - 提出新的下采样方法，并行
     - 即用pooling下采样，也用卷积下采样，最后concate在一起，也是inception并行模块结构
     - ![Efficent reducing grid size](asserts/inception-v2-v3/efficent-reducing-grid-size.png)
+    ---
