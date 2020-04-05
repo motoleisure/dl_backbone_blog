@@ -19,3 +19,9 @@ blogs for reading dl papers.
 - [part 01](object-detection-history-paper-01.md)
 - [part 02](object-detection-history-paper-02.md)
 - [part 03](object-detection-history-paper-03.md)
+
+## Machine Learning
+- [SVM]()
+- [Kmeans]()
+- [Decision Tree]()
+- [Boosting && Ensemble]()
