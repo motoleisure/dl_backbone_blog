@@ -9,6 +9,11 @@ blogs for reading dl papers.
 
 ## Loss function learning
 - [softmax-loss-inference](softmax-loss-inference.md)
+
+## Dealing with Imbalance Sampleds
+- [LaLa]()
+- [Lolo]()
+
 ## Advanced python learning
 - [advanced-python-01-05](advanced-python-01-05.md)
 
