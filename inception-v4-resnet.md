@@ -1,4 +1,5 @@
 - [bilibili-子豪兄](https://www.bilibili.com/video/BV1r7411X7LC?p=7)
+- ![CSDN-incpetion-v4-architecture](https://images2017.cnblogs.com/blog/853467/201712/853467-20171227215021394-1251296998.png)
 - [Medium-Review: Inception-v4, Evolved From GoogLeNet, Merged with ResNet Idea (Image Classification)](https://towardsdatascience.com/review-inception-v4-evolved-from-googlenet-merged-with-resnet-idea-image-classification-5e8c339d18bc)
 
 ### Inception技术演进
