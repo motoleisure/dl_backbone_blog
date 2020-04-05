@@ -49,6 +49,8 @@
   - 增加特征维度
   - 增加模型的宽度
   - 在模型的后半部分使用
+  - ![Expanded filters](asserts/inception-v2-v3/expanded-filter.png)
+  ---
 - (4) 辅助分类器的作用
   - inception v1中提出辅助分类器能加速模型收敛，改善梯度消失，起到正则化的作用，然而实验验证并没有
   - 但是在辅助分类器中加上BN或者dropout层，主分类头性能会更好，辅助分类器也能起到正则化的作用
