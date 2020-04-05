@@ -15,4 +15,5 @@
 
 ### Inception V4
 #### Main idea
-- bla
+- 2015,何凯明等人提出了震惊业界的ResNet模型，在网络中引入了shortcut用以解决深层网络的无法收敛(梯度消失/梯度爆炸)或者收敛慢的问题。
+- 本文提出质疑的同时也尝试inception+resnet
