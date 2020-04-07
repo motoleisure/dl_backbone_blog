@@ -16,7 +16,7 @@
   
  - (3). [OctoML](https://octoml.ai/)
   - Base: Seattle, Washington
-  - CTO: 陈天奇大佬
+  - CTO: [陈天奇大佬](https://tqchen.com/)
   - 核心产品：部署机器学习模型到任何设备上，更快更安全。
     - The Octomizer， 一键优化模型，加速部署在不同平台上。
     - ![OctoMizer](asserts/octomizer.png)
