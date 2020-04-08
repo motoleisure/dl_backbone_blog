@@ -30,3 +30,14 @@
       - Compilation of deep learning models in Keras, MXNet, PyTorch, Tensorflow, CoreML, DarkNet into minimum deployable modules on diverse hardware backends.
       - Infrastructure to automatic generate and optimize tensor operators on more backend with better performance.
       - ![TVM](asserts/tvm.png)
+      
+- (4). [Qualcomm AI research](https://www.qualcomm.com/invention/artificial-intelligence/ai-research)
+  - core mission : Our mission is to make breakthroughs in fundamental AI research and scale them across industries. 
+  - key AI research areas 
+    - Power efficiency
+    - Personalization
+    - Efficient learning
+    - System architecture
+    
+## China-Mainland
+
