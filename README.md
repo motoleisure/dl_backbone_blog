@@ -25,6 +25,9 @@ blogs for reading dl papers.
 - [part 02](object-detection-history-paper-02.md)
 - [part 03](object-detection-history-paper-03.md)
 
+## TVM 2019 conference notes
+- [TVM conference 2019](tvm-conference-2020.md)
+
 ## Machine Learning
 - [SVM]()
 - [Kmeans]()
