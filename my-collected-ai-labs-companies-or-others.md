@@ -14,7 +14,7 @@
   - 核心技术：超参数tuning，可拓展的，定制的平台
   - What they do: Weights & Biases is an experiment tracking platform for deep learning. Our tools make collaborative deep learning easy for teams by organizing experiments and notes in a shared workspace, tracking all the code and hyperparameters, and visualizing output metrics.
   
- - (3). [OctoML](https://octoml.ai/)
+- (3). [OctoML](https://octoml.ai/)
   - Base: Seattle, Washington
   - CTO: [陈天奇大佬](https://tqchen.com/)
   - 核心产品：部署机器学习模型到任何设备上，更快更安全。
