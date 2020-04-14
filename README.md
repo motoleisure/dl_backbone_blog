@@ -1,6 +1,9 @@
 # dl_backbone_blog
 blogs for reading dl papers.
 
+## Elements of DL 
+- ![dl structures](asserts/dl_structure.png)
+
 ## Inception paper reading
 - [inception-v1](inception-v1-paper.md)
 - [inception-v1-self-review](inception-v1-self-review.md)
